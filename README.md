@@ -10,7 +10,7 @@
 
 You're going to teach Ruby how to do the Macarena! Within the program `macarena.rb` are some of the steps of the Mararena. They are out of order and a few of the steps are missing. It's your job to fix them!
 
-Run `learn` to see the correct sequence of steps one at a time.
+Run `learn` to seen the correct sequence of steps one at a time.
 
 <p>&nbsp;</p>
 
